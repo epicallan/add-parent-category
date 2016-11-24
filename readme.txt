@@ -7,11 +7,11 @@ Stable tag: 1.0.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Hey there! I'm your new Add Parent Category Plugin.
+Add Parent Category Plugin.
 
 == Description ==
 
-Hey there! I'm your new Add Parent Category Plugin.
+Adds a Parent Category to every sub category
 
 Looking for a helping hand? [View plugin documentation](https://github.com/epicallan/add-parent-category).
 
